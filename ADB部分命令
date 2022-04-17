@@ -1,0 +1,9 @@
+pm uninstall -k --user 0    卸载应用
+pm list package -d          查询当前禁用的APP
+pm disable-user             停用APP
+pm enable                   启用APP
+
+
+adb connect XXX.XXX.XXX.XXX:XXXXX     WIFI链接ADB
+adb install XXX.APK                   安装APK
+adb devices                           ADB看设备
