@@ -44,3 +44,5 @@ pm disable-user com.vivo.browser
 pm disable-user com.vivo.bsptest
 pm disable-user com.vivo.motionrecognition
 pm disable-user com.bbk.account
+
+pm disable-user com.vivo.wallet
