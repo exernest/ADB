@@ -22,3 +22,5 @@ pm list package -d                    查询当前禁用的APP
 adb connect XXX.XXX.XXX.XXX:XXXXX     WIFI链接ADB
 adb install XXX.APK                   安装APK
 adb devices                           ADB看设备
+
+adb install -i 'com.android.vending' 
